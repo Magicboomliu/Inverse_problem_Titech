@@ -1,8 +1,16 @@
 # Inverse_problem_Titech
 This is the assignment repo of Inverse problem in tokyo tech. 2021    
 
-### A Work of Liu Zihua(M1), and Yuan Yuchen(M1). Tokyo Tech, System control and enginnering master coursel
+### A Work of Liu Zihua(M1), and Yuan Yuchen(M1). Tokyo Tech, System control and enginnering master course   
 
+#### Thanks for Yoshinao KISHIMOTO for given the matlab sample code
+```
+%%%   Department of Mechanical and Environmental Informatics   %%%
+%%%   Graduate School of Information Science and Engineering   %%%
+%%%               Tokyo Institute of Technology                %%%
+%%%                                                            %%%
+%%%                        November 2007  
+```
 逆問題とデータ同化  
 Inverse Problems and Data Assimilation   
 
